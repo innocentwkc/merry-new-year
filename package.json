@@ -3,12 +3,13 @@
   "version": "1.0.0",
   "description": "Simple package to count down to important holidays like christmas and the new year",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "npm run test"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/innocentwkc/happy-new-year"
+    "url": "https://github.com/innocentwkc/merry-new-year"
   },
   "keywords": [
     "new year",
