@@ -1,0 +1,21 @@
+{
+  "name": "happy-new-year",
+  "version": "1.0.0",
+  "description": "Simple packagae to count down to the new year",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://innocentwkc/happy-new-year"
+  },
+  "keywords": [
+    "new year",
+    "year countdown",
+    "countdown",
+    "count down"
+  ],
+  "author": "innocentwkc",
+  "license": "MIT"
+}
