@@ -1,7 +1,7 @@
 {
-  "name": "happy-new-year",
+  "name": "merry-new-year",
   "version": "1.0.0",
-  "description": "Simple packagae to count down to the new year",
+  "description": "Simple package to count down to important holidays like christmas and the new year",
   "main": "index.js",
   "scripts": {
     "test": "npm run test"
